@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -88,7 +87,7 @@
         >
           <span
           
-            class="w-full h-full absolute opacity-50 bg-blue-400"
+            class="w-full h-full absolute opacity-50 bg-black"
           ></span>
         </div>
         <div class="container relative">
@@ -229,14 +228,16 @@
           <div class="flex flex-wrap">
             <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
               <div class="px-6">
+                
                 <img
                   alt="..."
-                  src="http://www.henhunt.co.uk/wp-content/uploads/2014/10/Person-Logo-1.png"
+                  src="https://www.lifeissweeterbydesign.com/wp-content/uploads/2015/08/meround-1.png"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
-                />
+                  
+               >
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Honey Singh</h5>
+                  <h5 class="text-xl font-bold">Alex</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                     Web Developer
                   </p>
@@ -248,12 +249,12 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="http://www.henhunt.co.uk/wp-content/uploads/2014/10/Person-Logo-1.png"
+                  src="https://lifeissweeterbydesign.com/wp-content/uploads/2015/04/JamieYonash250.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">RAHUL</h5>
+                  <h5 class="text-xl font-bold">Garry</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                     Marketing Specialist
                   </p>
@@ -265,12 +266,12 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="http://www.henhunt.co.uk/wp-content/uploads/2014/10/Person-Logo-1.png"
+                  src="https://lifeissweeterbydesign.com/wp-content/uploads/2015/04/AlanaSlatterly250.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Swati</h5>
+                  <h5 class="text-xl font-bold">Maira</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                     UI/UX Designer
                   </p>
@@ -282,12 +283,12 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="http://www.henhunt.co.uk/wp-content/uploads/2014/10/Person-Logo-1.png"
+                  src="http://0.gravatar.com/avatar/5ced5c7782098de92af133b3f4514fe1"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">  S.G.S Sandhu </h5>
+                  <h5 class="text-xl font-bold">  Watson </h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                     Founder and CEO
                   </p>
@@ -298,7 +299,7 @@
           </div>
         </div>
       </section>
-      <section class="pb-20 relative block bg-gray-400">
+      <section class="pb-20 relative block bg-gray-900">
         <div
           class="bottom-auto top-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden -mt-20"
           style="height: 80px; transform: translateZ(0px);"
@@ -359,7 +360,180 @@
           </div>
         </div>
       </section>
-    
+      <section class="relative block py-24 lg:pt-0 bg-gray-900">
+        <div class="container mx-auto px-4">
+          <div class="flex flex-wrap justify-center lg:-mt-64 -mt-48">
+            <div class="w-full lg:w-6/12 px-4">
+              <div
+                class="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-gray-300"
+              >
+                <div class="flex-auto p-5 lg:p-10">
+                  <h4 class="text-2xl font-semibold">Want to work with us?</h4>
+                  <p class="leading-relaxed mt-1 mb-4 text-gray-600">
+                    Complete this form and we will get back to you in 24 hours.
+                  </p>
+                  <div class="relative w-full mb-3 mt-8">
+                    <label
+                      class="block uppercase text-gray-700 text-xs font-bold mb-2"
+                      for="full-name"
+                      >Full Name</label
+                    ><input
+                      type="text"
+                      class="px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:shadow-outline w-full"
+                      placeholder="Full Name"
+                      style="transition: all 0.15s ease 0s;"
+                    />
+                  </div>
+                  <div class="relative w-full mb-3">
+                    <label
+                      class="block uppercase text-gray-700 text-xs font-bold mb-2"
+                      for="email"
+                      >Email</label
+                    ><input
+                      type="email"
+                      class="px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:shadow-outline w-full"
+                      placeholder="Email"
+                      style="transition: all 0.15s ease 0s;"
+                    />
+                  </div>
+                  <div class="relative w-full mb-3">
+                    <label
+                      class="block uppercase text-gray-700 text-xs font-bold mb-2"
+                      for="message"
+                      >Message</label
+                    ><textarea
+                      rows="4"
+                      cols="80"
+                      class="px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:shadow-outline w-full"
+                      placeholder="Type a message..."
+                    ></textarea>
+                  </div>
+                  <div class="text-center mt-6">
+                    <button
+                      class="bg-gray-900 text-white active:bg-gray-700 text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
+                      type="button"
+                      style="transition: all 0.15s ease 0s;"
+                    >
+                      Send Message
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer class="relative bg-gray-300 pt-8 pb-6">
+        <div
+          class="bottom-auto top-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden -mt-20"
+          style="height: 80px; transform: translateZ(0px);"
+        >
+         
+        </div>
+        <div class="container mx-auto px-4">
+          <div class="flex flex-wrap">
+            <div class="w-full lg:w-6/12 px-4">
+              <h4 class="text-3xl font-semibold">Let's keep in touch!</h4>
+              <h5 class="text-lg mt-0 mb-2 text-gray-700">
+                Find us on any of these platforms, we respond 1-2 business days.
+              </h5>
+              <div class="mt-6">
+       
+              </div>
+            </div>
+            <div class="w-full lg:w-6/12 px-4">
+              <div class="flex flex-wrap items-top mb-6">
+                <div class="w-full lg:w-4/12 px-4 ml-auto">
+                  <span
+                    class="block uppercase text-gray-600 text-sm font-semibold mb-2"
+                    >Useful Links</span
+                  >
+                  <ul class="list-unstyled">
+                    <li>
+                      <a
+                        class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
+                        href="#"
+                        >About Us</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
+                        href="#"
+                        >Blog</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
+                        href="#"
+                        >Github</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
+                        href="#"
+                        >Free Products</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+                <div class="w-full lg:w-4/12 px-4">
+                  <span
+                    class="block uppercase text-gray-600 text-sm font-semibold mb-2"
+                    >Other Resources</span
+                  >
+                  <ul class="list-unstyled">
+                    <li>
+                      <a
+                        class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
+                        href="#"
+                        >MIT License</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
+                        href="#"
+                        >Terms &amp; Conditions</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
+                        href="#"
+                        >Privacy Policy</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
+                        href="#"
+                        >Contact Us</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <hr class="my-6 border-gray-400" />
+          <div
+            class="flex flex-wrap items-center md:justify-between justify-center"
+          >
+            <div class="w-full md:w-4/12 px-4 mx-auto text-center">
+              <div class="text-sm text-gray-600 font-semibold py-1">
+                Copyright © 2008
+                <a
+                  href="#"
+                  class="text-gray-600 hover:text-gray-900"
+                  >Oxo solution</a
+                >.
+              </div>
+            </div>
+          </div>
+        </div>
     </main>
    
   </body>
